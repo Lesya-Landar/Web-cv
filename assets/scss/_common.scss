@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+
+}
+
+h1 {
+  font-family: $font-header;
+  font-size: 2em;
+  margin: 0;
+}
+
+h2 {
+  font-family: $font-header;
+  font-size: 1.5em;
+  margin: 0;
+  color: $color-accent;
+}
+  
+.main {
+  display: block;
+  background-color: $color-gray-light;
+}
+

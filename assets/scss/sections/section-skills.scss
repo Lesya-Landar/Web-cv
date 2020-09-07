@@ -1,0 +1,17 @@
+.skills__content {
+  display: grid;
+  justify-content: center;
+  font-family: $font-header;
+  font-size: 1em;
+  color: $color-gray-dark;
+}
+
+.skills__content__items {
+background-color: $color-light;
+
+  li {
+    list-style-type: none;
+  }
+}
+ 
+
